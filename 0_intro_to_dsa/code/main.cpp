@@ -54,5 +54,14 @@ int main() {
     // cout << &meal << endl; // Memory address of meal (same as food)
 
     // Pointer
+    // string food = "Burger";
+    // string* ptr = &food;
 
+    // cout << ptr << endl; // Output the memory address of food
+    // cout << *ptr << endl; // Output the value of food (deference the pointer)
+
+    // *ptr = "Fries";
+    // cout << *ptr << endl;
+    // cout << food << endl;
+    // return 0;
 }
