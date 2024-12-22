@@ -20,6 +20,6 @@ This repository is for self-study and practice of **Data Structures and Algorith
 ---
 
 ## 🚀 Getting Started
-1. Clone the repo:  
+Clone the repo:  
    ```bash
    git clone https://github.com/your-username/dsa-cpp.git
